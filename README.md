@@ -1,7 +1,8 @@
 ## Demo Video
 
 You can watch the demo video of this project here: 
-https://drive.google.com/file/d/1G6NfpL4c4n5sII3irdXPtfTtixuNyZt9/view?usp=sharing# Salesforce DX Project:
+https://drive.google.com/file/d/1G6NfpL4c4n5sII3irdXPtfTtixuNyZt9/view?usp=sharing# 
+Salesforce DX Project:
 ## How Do You Plan to Deploy Your Changes?
 
 Do you want to deploy a set of changes, or create a self-contained application? Choose a [development model](https://developer.salesforce.com/tools/vscode/en/user-guide/development-models).
